@@ -46,7 +46,7 @@ const Projects = () => {
       description: 'Responsive website using HTML, CSS, and JavaScript with modern design principles and a smooth user experience.',
       technologies: ['HTML', 'CSS', 'JavaScript'],
       image: port3Img,
-      liveUrl: '#',
+      liveUrl: 'https://my-portfolio-three-iota-98.vercel.app/',
       githubUrl: 'https://github.com/Sayasri123'
     }
   ];
