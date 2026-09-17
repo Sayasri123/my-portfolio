@@ -37,7 +37,7 @@ const Projects = () => {
       description: 'Responsive website using HTML, CSS, and JavaScript with modern design principles and a smooth user experience.',
       technologies: ['HTML', 'CSS', 'JavaScript'],
       image: port2Img,
-      liveUrl: '#',
+      liveUrl: 'http://instagram-clone-xi-topaz.vercel.app/',
       githubUrl: 'https://github.com/Sayasri123'
     },
 
